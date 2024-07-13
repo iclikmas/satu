@@ -574,7 +574,7 @@ chmod +x install_up.sh
 ./install_up.sh
 }
 echo -e "$COLOR1╭═════════════════════════════════════════════════════════╮${NC}"
-echo -e "$COLOR1│$NC ${WH} ❈ Versi   ${NC}: ${WH}$(cat /opt/.ver) Version${NC}$COLOR1"
+echo -e "$COLOR1│$NC ${WH} ❈ Versi   ${NC}: 7.1 ${NC}$COLOR1"
 echo -e "$COLOR1│$NC ${WH} ❈ Client ${NC} : ${WH}$author${NC}"
 echo -e "$COLOR1│$NC ${WH} ❈ Durasi ${NC} : ${WH}$certificate hari${NC}$COLOR1"
 echo -e "$COLOR1│$NC ${WH} ❈ Expiry ${NC} : ${WH}$Exp2 $sts ${NC}$COLOR1"
