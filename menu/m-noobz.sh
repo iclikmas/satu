@@ -106,7 +106,7 @@ Example config TCP_SSL 8443
 EEzgE2n/9uDhmapbVi3OOdH2QJceIOIFHvogi9pO0ogt39MrQ8YpMD4DoUCTOZGyycxd/ZwUCGNpsEFP0evNoj54fVgRe6S6t67YgQD1Q9qCZ5DHRN8vldoM4itlFMwIvFF3uESXv7xp3NOPptJ5U+vKelojNP6e3W4qju2z1zfmCoblYV84cBXaZTpqlo/qfSRwpkkJd8s81+1Z0WQwGz7fazcLtH5lQnf2ktIU/p01n45bzKNS6RVSspd7dAe5+az42xmtnsr2CSB+3LALOpViUM86ppixLir1xBpfatTRxSJB+HMKS1Ltm0kVUbkaWkmaoS08mdyS6tGeeZvgeH/s1s3NDUMmjRIaYBlKzlVFhQMLZVTz1fQ2A6Ii2eiJ3x8I+j+5X1N7yqFhjYm/Hc3zzCBFcrCp4ntirFiriNlmnv/nDxlvLE7B6gmg0+imFDPiaDYTJf/rg1b0svcVjT+L9rgLZ5HeJCGv/GEnms0EdXMUGWEO9mNj3vejDKyEwMxZHzVqi2PMVo/dhABliavBaGohX5Na7TiijVGROm83tF4ZQ2IRs7h+2v9mNEf3x9MmfLf6TTtg0UbjMCv0IIyCukuMlmCi+10=
 
 ◇━━━━━━━━━━━━━━━━━◇
- • CLOUD TUNNELING • 
+ • BOGEL TUNNELING • 
 ◇━━━━━━━━━━━━━━━━━◇
 END
 if [[ -e /etc/noobz ]]; then
@@ -134,7 +134,7 @@ Example config TCP_SSL 8443
 <code>EEzgE2n/9uDhmapbVi3OOdH2QJceIOIFHvogi9pO0ogt39MrQ8YpMD4DoUCTOZGyycxd/ZwUCGNpsEFP0evNoj54fVgRe6S6t67YgQD1Q9qCZ5DHRN8vldoM4itlFMwIvFF3uESXv7xp3NOPptJ5U+vKelojNP6e3W4qju2z1zfmCoblYV84cBXaZTpqlo/qfSRwpkkJd8s81+1Z0WQwGz7fazcLtH5lQnf2ktIU/p01n45bzKNS6RVSspd7dAe5+az42xmtnsr2CSB+3LALOpViUM86ppixLir1xBpfatTRxSJB+HMKS1Ltm0kVUbkaWkmaoS08mdyS6tGeeZvgeH/s1s3NDUMmjRIaYBlKzlVFhQMLZVTz1fQ2A6Ii2eiJ3x8I+j+5X1N7yqFhjYm/Hc3zzCBFcrCp4ntirFiriNlmnv/nDxlvLE7B6gmg0+imFDPiaDYTJf/rg1b0svcVjT+L9rgLZ5HeJCGv/GEnms0EdXMUGWEO9mNj3vejDKyEwMxZHzVqi2PMVo/dhABliavBaGohX5Na7TiijVGROm83tF4ZQ2IRs7h+2v9mNEf3x9MmfLf6TTtg0UbjMCv0IIyCukuMlmCi+10=</code>
 
 ◇━━━━━━━━━━━━━━━━━◇
- • CLOUD TUNNELING • 
+ • BOGEL TUNNELING • 
 ◇━━━━━━━━━━━━━━━━━◇
 "
 else
@@ -162,7 +162,7 @@ Example config TCP_SSL 8443
 <code>EEzgE2n/9uDhmapbVi3OOdH2QJceIOIFHvogi9pO0ogt39MrQ8YpMD4DoUCTOZGyycxd/ZwUCGNpsEFP0evNoj54fVgRe6S6t67YgQD1Q9qCZ5DHRN8vldoM4itlFMwIvFF3uESXv7xp3NOPptJ5U+vKelojNP6e3W4qju2z1zfmCoblYV84cBXaZTpqlo/qfSRwpkkJd8s81+1Z0WQwGz7fazcLtH5lQnf2ktIU/p01n45bzKNS6RVSspd7dAe5+az42xmtnsr2CSB+3LALOpViUM86ppixLir1xBpfatTRxSJB+HMKS1Ltm0kVUbkaWkmaoS08mdyS6tGeeZvgeH/s1s3NDUMmjRIaYBlKzlVFhQMLZVTz1fQ2A6Ii2eiJ3x8I+j+5X1N7yqFhjYm/Hc3zzCBFcrCp4ntirFiriNlmnv/nDxlvLE7B6gmg0+imFDPiaDYTJf/rg1b0svcVjT+L9rgLZ5HeJCGv/GEnms0EdXMUGWEO9mNj3vejDKyEwMxZHzVqi2PMVo/dhABliavBaGohX5Na7TiijVGROm83tF4ZQ2IRs7h+2v9mNEf3x9MmfLf6TTtg0UbjMCv0IIyCukuMlmCi+10=</code>
 
 ◇━━━━━━━━━━━━━━━━━◇
- • CLOUD TUNNELING • 
+ • BOGEL TUNNELING • 
 ◇━━━━━━━━━━━━━━━━━◇
 "
 fi
@@ -212,7 +212,7 @@ echo "" | tee -a /etc/xray/noobz/akun/log-create-${user}.log
 echo -e "EMLBHFZfH/pBoPKJNWEVgBpE6A5ZeWbnzpI4w7UFL3EEDLbefWsxq308yXcLl9+eH0CAwm6hLFDAIEZtscw6w090SyqPTK1iZxg/XVhQupV+3gkyTy/t3OeJcEGNfgOGuBGi5HVxQNiBrKIo8gQnVnR5oDVf80HbwVUHYNiayk9B8cqGRlr8bHTMs6GcevwhgWRUhOYitN20pcF91SXkQd86eIFfMVVFpM2MkRqOiL4+ZWS1GrH+r4YVC69Q50xyZAfUm+Ps17bY3hH7qcha1o2OD8RhjYqGnRzJDJEh7tfnDG6GyLgKPk+A8wxLkd+oTDKOMMsEyFA6x2NolzEYNYIsn5C2QBlEm5NAb8RJmCkFVL+L+ekiUp0NvkIRSjhVbhcl/n1CkBWkcOPYLCwyIagNJrCoD6vkoGzprqS3IAbj7RkOQqmLquAlfeEgDk6UJao/BZaoZeeIlfhDgfATDZiooLECs/h+0/2Vff1E5wnoHovDDo3FZW8xbxXXazHWdYWg8BOU3sATfhnbZd6uWsPmAg6r3jGynibibNbO1r/n88vbvB8Au319VN8KRLI4FhPc/Z9KG+njTJkmiLoG33SbPU7fF8AP" | tee -a /etc/xray/noobz/akun/log-create-${user}.log
 echo "" | tee -a /etc/xray/noobz/akun/log-create-${user}.log
 echo -e "◇━━━━━━━━━━━━━━━━━◇" | tee -a /etc/xray/noobz/akun/log-create-${user}.log
-echo -e " • CLOUD TUNNELING •" | tee -a /etc/xray/noobz/akun/log-create-${user}.log
+echo -e " • BOGEL TUNNELING •" | tee -a /etc/xray/noobz/akun/log-create-${user}.log
 echo -e "◇━━━━━━━━━━━━━━━━━◇" | tee -a /etc/xray/noobz/akun/log-create-${user}.log
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
@@ -256,7 +256,7 @@ echo "$TEXT" > /etc/notiftele
 bash /etc/tele
 fi
 echo -e "$COLOR1╭══════════════════════ • ${WH}BY${NC}${COLOR1} • ═══════════════════════╮${NC}"
-echo -e "$COLOR1${NC}          ${WH}   • Satan Fusion Tunneling •                 $COLOR1 $NC"
+echo -e "$COLOR1${NC}          ${WH}   • Bogel Store Tunneling •                 $COLOR1 $NC"
 echo -e "$COLOR1╰═════════════════════════════════════════════════════╯${NC}"
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
@@ -278,7 +278,7 @@ echo -e "$COLOR1╰════════════════════�
 echo "USERNAME: $user"
 echo "renew success!!"
 echo -e "$COLOR1╭══════════════════════ • ${WH}BY${NC}${COLOR1} • ═══════════════════════╮${NC}"
-echo -e "$COLOR1${NC}          ${WH}   • Satan Fusion Tunneling •                 $COLOR1 $NC"
+echo -e "$COLOR1${NC}          ${WH}   • Bogel Store Tunneling •                 $COLOR1 $NC"
 echo -e "$COLOR1╰═════════════════════════════════════════════════════╯${NC}"
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
@@ -301,7 +301,7 @@ echo -e "$COLOR1╰════════════════════�
 echo "USERNAME: $user"
 echo "locked success!!"
 echo -e "$COLOR1╭══════════════════════ • ${WH}BY${NC}${COLOR1} • ═══════════════════════╮${NC}"
-echo -e "$COLOR1${NC}          ${WH}   • Satan Fusion Tunneling •                 $COLOR1 $NC"
+echo -e "$COLOR1${NC}          ${WH}   • Bogel Store Tunneling •                 $COLOR1 $NC"
 echo -e "$COLOR1╰═════════════════════════════════════════════════════╯${NC}"
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
@@ -321,7 +321,7 @@ echo -e "$COLOR1╰════════════════════�
 noobzvpns --info-all-user | awk '/^\s*\+.*-> active/ {gsub(/(issued\(yyyymmdd\)|hash_key): [0-9a-f]+/, ""); print; getline; print; getline; getline; getline; print; print "═══════════════════"}'
 
 echo -e "$COLOR1╭══════════════════════ • ${WH}BY${NC}${COLOR1} • ═══════════════════════╮${NC}"
-echo -e "$COLOR1${NC}          ${WH}   • Satan Fusion Tunneling •                 $COLOR1 $NC"
+echo -e "$COLOR1${NC}          ${WH}   • Bogel Store Tunneling •                 $COLOR1 $NC"
 echo -e "$COLOR1╰═════════════════════════════════════════════════════╯${NC}"
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
@@ -344,7 +344,7 @@ echo -e "$COLOR1╰════════════════════�
 echo "USERNAME: $user"
 echo "unlocked success!!"
 echo -e "$COLOR1╭══════════════════════ • ${WH}BY${NC}${COLOR1} • ═══════════════════════╮${NC}"
-echo -e "$COLOR1${NC}          ${WH}   • Satan Fusion Tunneling •                 $COLOR1 $NC"
+echo -e "$COLOR1${NC}          ${WH}   • Bogel Store Tunneling •                 $COLOR1 $NC"
 echo -e "$COLOR1╰═════════════════════════════════════════════════════╯${NC}"
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
@@ -378,7 +378,7 @@ echo -e "$COLOR1╰════════════════════�
 echo "USERNAME: $user"
 echo "unlocked success!!"
 echo -e "$COLOR1╭══════════════════════ • ${WH}BY${NC}${COLOR1} • ═══════════════════════╮${NC}"
-echo -e "$COLOR1${NC}          ${WH}   • Satan Fusion Tunneling •                 $COLOR1 $NC"
+echo -e "$COLOR1${NC}          ${WH}   • Bogel Store Tunneling •                 $COLOR1 $NC"
 echo -e "$COLOR1╰═════════════════════════════════════════════════════╯${NC}"
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
